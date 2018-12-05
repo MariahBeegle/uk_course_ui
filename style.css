@@ -47,3 +47,23 @@ hr {
    font-size:14px;
    font-weight:normal;
  }
+
+.class_card h4 {
+  background:grey;
+  color:white;
+  padding:0;
+  margin:0;
+}
+
+.class_card button {
+  float:right;
+}
+
+.class_card {
+  background:lightgrey;
+  padding:5;
+}
+
+.class_card p {
+  background-color:white;
+}
